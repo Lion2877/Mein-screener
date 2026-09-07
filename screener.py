@@ -6,8 +6,8 @@ import yfinance as yf
 # ==============================================================================
 # 1. IHRE TELEGRAM-ZUGANGSDATEN (Hier Ihre echten Werte eintragen)
 # ==============================================================================
-TELEGRAM_TOKEN = 8681031361:AAHPa7nLq14_xre5zvOtLU7uvvpyvsa_Kv4
-TELEGRAM_CHAT_ID = 6360891445
+TELEGRAM_TOKEN = "8681031361:AAHPa7nLq14_xre5zvOtLU7uvvpyvsa_Kv4"
+TELEGRAM_CHAT_ID = "6360891445"
 
 # ==============================================================================
 # 2. TELEGRAM-PUSH-FUNKTION
